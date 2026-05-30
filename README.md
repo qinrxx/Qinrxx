@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=const+engineer+%3D+new+Developer();engineer.build('systems');engineer.optimize('web');" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=const+engineer+%3D+new+Developer();engineer.build('systems');engineer.optimize('web');" alt="Typing SVG" />
 </p>
 
 </div>
@@ -25,8 +25,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qinrxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qinrxx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qinrxx&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="GitHub Streak" width="80%" />
 </div>
 
 <br />
@@ -35,9 +34,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qinrxx/Qinrxx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qinrxx/Qinrxx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Qinrxx/Qinrxx/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/qinrxx/Qinrxx/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/qinrxx/Qinrxx/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="github contribution grid snake animation" src="https://github.com/qinrxx/Qinrxx/blob/output/github-contribution-grid-snake.svg?raw=true">
   </picture>
 </p>
 
